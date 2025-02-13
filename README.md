@@ -4,7 +4,7 @@
 ### privacy computing
 ### Privacy-Preserving Fuzzing
 
-## Data Minging
+## Data Mining
 
 ## AI/ML
 
